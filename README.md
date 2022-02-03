@@ -30,6 +30,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+![SA](https://www.freecodecamp.org/news/content/images/2020/09/wall-5.jpeg)
+
 ### Background
 
 For the area of analysis of movie review, sentiment analysis means finding the mood of the public about how they judge a specific movie. And based on the reviews available online, in this instance, IMDb, most movie buffs would love to view the ratings of a movie before they book their tickets, as this may influence their experience from the movie and whether it is worthwhile to spend their money and time. As such, this project aims to build a deep learning algorithm to classify the reviews in the IMDb movie reviews sentiment dataset.
@@ -57,6 +59,8 @@ Why is this important?
 * Movie reviews classification into positive or negative reviews are connected with words occurrences from the reviews text, and whether those words have been used before in a positive or a negative context. These factors help enhance the review understanding process using Sentiment Analysis, where it has become the gateway to understanding consumer needs. Sentiment analysis is concerned with identifying and categorizing opinions which are subjective impressions, not facts but usually expressed in a text and determining whether the writer's feelings, attitudes or emotions towards a particular topic are positive or negative. 
 * The aim of this research is to classify movie reviews into positive and negative reviews using Natural Language Processing (NLP) techniques, Linear Support Vector Classifier model and CNN and compare the discrepancies between the two models.
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ### Nomenclature
 * **Natural Language Processing (NLP)**:
   * **NLTK:** Natural Language ToolKit is a suite of libraries for symbolic and satistical Natural Language Processing (NLP) tasks for English written in Python.
@@ -68,12 +72,14 @@ Why is this important?
   * **Lemmatization** has the same objective as Stemming, however, it takes into consideration the morphological analysis of the words, i.e., it ensures that the root word is a valid English word alphabetically and meaningfully.
 
 * **Deep Learning concepts/models:**
-  * **Vectorization** (Bag of Words (BoW) model):
+  * **Vectorization** (Bag of Words (BoW) model): Word Embeddings, also known as Word Vectorization, is an NLP technique for mapping words or phrases from a lexicon to a corresponding vector of real numbers, which can then be used to derive word predictions and semantics. Vectorization is the process of translating words into numbers.
    1. CountVectorizer
    2. TFIDF Vectorizer 
   * **Linear Support Vector Classifier (LinearSVC)**
   * **Multinomial Naive Bayes**
   * **Convolutional Neural Network (CNN)**
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- PAPERS EXAMPLES -->
 ## Research Papers
