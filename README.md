@@ -54,7 +54,7 @@ This section lists the major frameworks/libraries and deep learning architecture
 
 <!-- GETTING STARTED -->
 ## Getting Started
-Why is this important?
+Why is Sentiment Analysis important?
 * Humans are subjective creatures and their opinions are important because they reflect their satisfaction with products, services and available technologies. A movie review is an article reflecting its writers’ opinion about a certain movie and criticizing it positively or negatively which enables everyone to understand the overall idea of that movie and make the decision whether to watch it or not, and these reviews can affect the success or failure of a movie. Therefore, a vital challenge is to be able to classify movies reviews to retrieve and analyze watchers more effectively. 
 * Movie reviews classification into positive or negative reviews are connected with words occurrences from the reviews text, and whether those words have been used before in a positive or a negative context. These factors help enhance the review understanding process using Sentiment Analysis, where it has become the gateway to understanding consumer needs. Sentiment analysis is concerned with identifying and categorizing opinions which are subjective impressions, not facts but usually expressed in a text and determining whether the writer's feelings, attitudes or emotions towards a particular topic are positive or negative. 
 * The aim of this research is to classify movie reviews into positive and negative reviews using Natural Language Processing (NLP) techniques, Linear Support Vector Classifier model and CNN and compare the discrepancies between the two models.
