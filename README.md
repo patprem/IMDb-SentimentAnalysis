@@ -71,6 +71,6 @@ If you like this project and interested to contribute:
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-This project was mainly inspired from a [Kaggle Competition](https://www.kaggle.com/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews) conducted in the year 2020-21. The datasets used in this project borrows from [IMDB Dataset.csv](https://www.kaggle.com/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews/data) and [Large Movie Review Dataset](https://ai.stanford.edu/~amaas/data/sentiment/).
+This project was mainly inspired from a [Kaggle Competition](https://www.kaggle.com/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews) conducted in the year 2020-21. The datasets used in this project borrows from [IMDB Dataset (csv)](https://www.kaggle.com/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews/data) and [Large Movie Review Dataset](https://ai.stanford.edu/~amaas/data/sentiment/).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
