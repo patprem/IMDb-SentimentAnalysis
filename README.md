@@ -85,7 +85,7 @@ Why is Sentiment Analysis important?
 ### Datasets
 
 The following are the two datasets which are the main prerequisities required to kickstart this project:
-* [IMDB Dataset (csv)](https://www.kaggle.com/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews/data)
+* [IMDB Dataset.csv](https://www.kaggle.com/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews/data)
 * [Large Movie Review Dataset](https://ai.stanford.edu/~amaas/data/sentiment/)
 
 ### Installation
@@ -93,6 +93,8 @@ The following are the two datasets which are the main prerequisities required to
 * Everything to get started with this project is provided in this [Google Colab notebook](https://github.com/patprem/IMDb-SentimentAnalysis/blob/6a4508c73bd44b99bd0837edf7b418ec3f513801/SentimentAnalysis.ipynb).
 * It is important to change the directory and root path variable where mentioned accordingly.
 * Follow through the instructions and comments provided at each section to understand the work flow of the codes.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- PAPERS EXAMPLES -->
 ## Research Papers
@@ -115,6 +117,6 @@ If you like this project and interested to contribute:
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-This project was mainly inspired from a [Kaggle Competition](https://www.kaggle.com/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews) conducted in the year 2020-21. The datasets used in this project borrows from [IMDB Dataset (csv)](https://www.kaggle.com/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews/data) and [Large Movie Review Dataset](https://ai.stanford.edu/~amaas/data/sentiment/).
+This project was mainly inspired from a [Kaggle Competition](https://www.kaggle.com/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews) conducted in the year 2020-21. The datasets used in this project borrows from [IMDB Dataset.csv](https://www.kaggle.com/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews/data) and [Large Movie Review Dataset](https://ai.stanford.edu/~amaas/data/sentiment/).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
