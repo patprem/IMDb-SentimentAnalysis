@@ -12,6 +12,9 @@
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
+      <ul>
+        <li><a href="#project-overview">Project Overview</a></li>
+      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -50,6 +53,12 @@ This section lists the major frameworks/libraries and deep learning architecture
 * [Matplotlib](https://matplotlib.org/)
 * [scikit](https://scikit-learn.org/stable/)
 * [NumPy](https://numpy.org/)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+### Project Overview
+
+![BD](https://github.com/patprem/IMDb-SentimentAnalysis/blob/ebcd84fbfd72d523b86a11e4aa6754ddb26c93c9/Project%20Overview.jpg)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
