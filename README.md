@@ -17,6 +17,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#nomenclature">Nomenclature</a></li>
+        <li><a href="#datasets">Datasets</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -80,6 +81,18 @@ Why is Sentiment Analysis important?
   * **Convolutional Neural Network (CNN)**
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+### Datasets
+
+The following are the two datasets which are the main prerequisities required to kickstart this project:
+* [IMDB Dataset (csv)](https://www.kaggle.com/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews/data)
+* [Large Movie Review Dataset](https://ai.stanford.edu/~amaas/data/sentiment/)
+
+### Installation
+
+* Everything to get started with this project is provided in this [Google Colab notebook](https://github.com/patprem/IMDb-SentimentAnalysis/blob/6a4508c73bd44b99bd0837edf7b418ec3f513801/SentimentAnalysis.ipynb).
+* It is important to change the directory and root path variable where mentioned accordingly.
+* Follow through the instructions and comments provided at each section to understand the work flow of the codes.
 
 <!-- PAPERS EXAMPLES -->
 ## Research Papers
