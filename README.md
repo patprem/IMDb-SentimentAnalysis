@@ -52,11 +52,11 @@ This section lists the major frameworks/libraries and deep learning architecture
 
 <!-- PAPERS EXAMPLES -->
 ## Research Papers
-1. Hannah Kim and Young-Seob Jeong, “Sentiment Analysis Using Convolutional Neural Networks”, Applied Sciences, vol. 1, no. 2, pp. 1-3, June 2019. [link](https://www.mdpi.com/2076-3417/9/11/2347/pdf-vor)
-2. Walaa Medhat, Ahmed Hassan, Hoda Korashy, “Sentiment analysis algorithms and applications: A survey”, Ain Shams University, vol. 5, no. 1093-1113, pp. 2-3, April 2014. [link](https://www.researchgate.net/publication/261875740_Sentiment_Analysis_Algorithms_and_Applications_A_Survey)
-3. Abdullah Alsaeedi, Mohammad Zubair Khan, “A Study on Sentiment Analysis Techniques of Twitter Data”, International Journal of Advanced Computer Science and Applications (IJACSA), vol. 10, no. 2, pp. 7-8, 2019. [link](https://www.researchgate.net/publication/331411860_A_Study_on_Sentiment_Analysis_Techniques_of_Twitter_Data)
-4. Munir Ahmad, Shabib Aftab, “Sentiment Analysis using SVM: A Systematic Literature Review”, International Journal of Advanced Computer Science and Applications (IJACSA), vol. 9, no. 2, pp. 3-4, 2018. [link](https://thesai.org/Downloads/Volume9No2/Paper_26-Sentiment_Analysis_using_SVM.pdf)
-5. Mais Yasen, Sara Tedmori, “Movie Reviews Sentiment Analysis and Classification”, ResearchGate, vol. 1, no. 2, pp. 1-5, April 2019. [link](https://www.researchgate.net/publication/332321070_Movies_Reviews_Sentiment_Analysis_and_Classification)
+1. Hannah Kim and Young-Seob Jeong, “Sentiment Analysis Using Convolutional Neural Networks”, Applied Sciences, vol. 1, no. 2, pp. 1-3, June 2019. [[link]](https://www.mdpi.com/2076-3417/9/11/2347/pdf-vor)
+2. Walaa Medhat, Ahmed Hassan, Hoda Korashy, “Sentiment analysis algorithms and applications: A survey”, Ain Shams University, vol. 5, no. 1093-1113, pp. 2-3, April 2014. [[link]](https://www.researchgate.net/publication/261875740_Sentiment_Analysis_Algorithms_and_Applications_A_Survey)
+3. Abdullah Alsaeedi, Mohammad Zubair Khan, “A Study on Sentiment Analysis Techniques of Twitter Data”, International Journal of Advanced Computer Science and Applications (IJACSA), vol. 10, no. 2, pp. 7-8, 2019. [[link]](https://www.researchgate.net/publication/331411860_A_Study_on_Sentiment_Analysis_Techniques_of_Twitter_Data)
+4. Munir Ahmad, Shabib Aftab, “Sentiment Analysis using SVM: A Systematic Literature Review”, International Journal of Advanced Computer Science and Applications (IJACSA), vol. 9, no. 2, pp. 3-4, 2018. [[link]](https://thesai.org/Downloads/Volume9No2/Paper_26-Sentiment_Analysis_using_SVM.pdf)
+5. Mais Yasen, Sara Tedmori, “Movie Reviews Sentiment Analysis and Classification”, ResearchGate, vol. 1, no. 2, pp. 1-5, April 2019. [[link]](https://www.researchgate.net/publication/332321070_Movies_Reviews_Sentiment_Analysis_and_Classification)
 
 <!-- CONTRIBUTE -->
 ## Contribute
