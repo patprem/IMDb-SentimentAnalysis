@@ -52,7 +52,28 @@ This section lists the major frameworks/libraries and deep learning architecture
 
 <!-- GETTING STARTED -->
 ## Getting Started
-Humans are subjective creatures and their opinions are important because they reflect their satisfaction with products, services and available technologies. A movie review is an article reflecting its writers’ opinion about a certain movie and criticizing it positively or negatively which enables everyone to understand the overall idea of that movie and make the decision whether to watch it or not, and these reviews can affect the success or failure of a movie. Therefore, a vital challenge is to be able to classify movies reviews to retrieve and analyze watchers more effectively. Movie reviews classification into positive or negative reviews are connected with words occurrences from the reviews text, and whether those words have been used before in a positive or a negative context. These factors help enhance the review understanding process using Sentiment Analysis, where it has become the gateway to understanding consumer needs. Sentiment analysis is concerned with identifying and categorizing opinions which are subjective impressions, not facts but usually expressed in a text and determining whether the writer's feelings, attitudes or emotions towards a particular topic are positive or negative. The aim of this research is to classify movie reviews into positive and negative reviews using Natural Language Processing (NLP) techniques, Linear Support Vector Classifier model and CNN and compare the discrepancies between the two models.
+Why is this important?
+* Humans are subjective creatures and their opinions are important because they reflect their satisfaction with products, services and available technologies. A movie review is an article reflecting its writers’ opinion about a certain movie and criticizing it positively or negatively which enables everyone to understand the overall idea of that movie and make the decision whether to watch it or not, and these reviews can affect the success or failure of a movie. Therefore, a vital challenge is to be able to classify movies reviews to retrieve and analyze watchers more effectively. 
+* Movie reviews classification into positive or negative reviews are connected with words occurrences from the reviews text, and whether those words have been used before in a positive or a negative context. These factors help enhance the review understanding process using Sentiment Analysis, where it has become the gateway to understanding consumer needs. Sentiment analysis is concerned with identifying and categorizing opinions which are subjective impressions, not facts but usually expressed in a text and determining whether the writer's feelings, attitudes or emotions towards a particular topic are positive or negative. 
+* The aim of this research is to classify movie reviews into positive and negative reviews using Natural Language Processing (NLP) techniques, Linear Support Vector Classifier model and CNN and compare the discrepancies between the two models.
+
+### Nomenclature
+* **Natural Language Processing (NLP)**:
+  * **NLTK:** Natural Language ToolKit is a suite of libraries for symbolic and satistical Natural Language Processing (NLP) tasks for English written in Python.
+  * **BeautifulSoup:** a Python library used to extract data out of HTML and XML files by eliminating HTML contents/tags such as "<br>" from the movie reviews provided in the datasets.
+  * **RegEx (Regular Expressions):** a Python module used to remove other special characters and punctuations, with the exception for upper or lower case letters.
+  * **Stopwords** are the English words which does not add much meaning to a sentence, and can safely be ignored without sacrificing the meaning of a sentence. Words like 'he', 'have', 'the' does not provide any insights.
+  * **Tokenization:** the process of splitting a string or text into a list of tokens primarily to remove stopwords; first step in NLP projects because it’s the foundation for developing good models and helps better understand the text we have.
+  * **Stemming:** a process to extract the base form of the words by removing affixes from the words. Stemming tries to achieve a reduction in words to their root form but the stem itself is not a valid English word.
+  * **Lemmatization** has the same objective as Stemming, however, it takes into consideration the morphological analysis of the words, i.e., it ensures that the root word is a valid English word alphabetically and meaningfully.
+
+* **Deep Learning concepts/models:**
+  * **Vectorization** (Bag of Words (BoW) model):
+   1. CountVectorizer
+   2. TFIDF Vectorizer 
+  * **Linear Support Vector Classifier (LinearSVC)**
+  * **Multinomial Naive Bayes**
+  * **Convolutional Neural Network (CNN)**
 
 <!-- PAPERS EXAMPLES -->
 ## Research Papers
