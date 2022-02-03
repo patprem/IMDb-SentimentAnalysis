@@ -93,6 +93,7 @@ The following are the two datasets which are the main prerequisities required to
 * Everything to get started with this project is provided in this [Google Colab notebook](https://github.com/patprem/IMDb-SentimentAnalysis/blob/6a4508c73bd44b99bd0837edf7b418ec3f513801/SentimentAnalysis.ipynb).
 * It is important to change the directory and root path variable where mentioned accordingly.
 * Follow through the instructions and comments provided at each section to understand the work flow of the codes.
+* Results are illustrated in the Colab notebook and further explained in the same [PDF](https://github.com/patprem/SentimentAnalysis/blob/bcc06d4e5c01555570df185f26e0e45a25fc7366/Report.pdf) report.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
