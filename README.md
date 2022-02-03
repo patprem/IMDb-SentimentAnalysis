@@ -20,7 +20,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#Research Papers">Research Papers</a></li>
+    <li><a href="#research-papers">Research Papers</a></li>
     <li><a href="#contribute">Contribute</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a>
     
@@ -57,6 +57,8 @@ This section lists the major frameworks/libraries and deep learning architecture
 3. Abdullah Alsaeedi, Mohammad Zubair Khan, “A Study on Sentiment Analysis Techniques of Twitter Data”, International Journal of Advanced Computer Science and Applications (IJACSA), vol. 10, no. 2, pp. 7-8, 2019. [[link]](https://www.researchgate.net/publication/331411860_A_Study_on_Sentiment_Analysis_Techniques_of_Twitter_Data)
 4. Munir Ahmad, Shabib Aftab, “Sentiment Analysis using SVM: A Systematic Literature Review”, International Journal of Advanced Computer Science and Applications (IJACSA), vol. 9, no. 2, pp. 3-4, 2018. [[link]](https://thesai.org/Downloads/Volume9No2/Paper_26-Sentiment_Analysis_using_SVM.pdf)
 5. Mais Yasen, Sara Tedmori, “Movie Reviews Sentiment Analysis and Classification”, ResearchGate, vol. 1, no. 2, pp. 1-5, April 2019. [[link]](https://www.researchgate.net/publication/332321070_Movies_Reviews_Sentiment_Analysis_and_Classification)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTRIBUTE -->
 ## Contribute
