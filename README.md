@@ -49,3 +49,40 @@ This section lists the major frameworks/libraries and deep learning architecture
 * [NumPy](https://numpy.org/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- CONTRIBUTE -->
+## Contribute
+
+If you like this project and interested to contribute:
+* Please show your support by ⭐ (star) the project.
+* Submit pull requests and improve the repo overall quality.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGMENTS -->
+## Acknowledgments
+This project was mainly inspired from a [Kaggle Competition](https://www.kaggle.com/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews) conducted in the year 2020-21. The datasets used in this project borrows from [IMDB Dataset.csv](https://www.kaggle.com/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews/data) and [Large Movie Review Dataset](https://ai.stanford.edu/~amaas/data/sentiment/).
+
+<p align="right">(<a href="#top">back to top</a>)</p>
