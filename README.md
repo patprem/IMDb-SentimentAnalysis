@@ -1,4 +1,4 @@
-# Sentiment Analysis of IMDb Movie Reviews
+# Sentiment Analysis on IMDb Movie Reviews
 
 <!-- TABLE OF CONTENTS -->
 <details>
